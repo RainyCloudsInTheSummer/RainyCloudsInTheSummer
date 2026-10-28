@@ -1,5 +1,96 @@
-## Hi there 👋
+<h1 align="center">Olá, me chamo Renzo! 🐺 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
+<h3 align="center"> Fullstack Developer | Analista e Desenvolvedor de Sistemas
 
+<p align="center">
+  <a href="mailto:renzo.clazaroti@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/renzo-carvalho-lazaroti-0942372a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
+<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+
+
+<div align="left">
+<fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
+  <legend align="left"><h3>👩🏻‍💻 Sobre Mim</h3></legend>
+
+  <em>
+Sou desenvolvedor, designer e aquele tipo de pessoa que gosta tanto de fazer as coisas funcionarem quanto de deixá-las bonitas.
+
+Trabalho com Python, JavaScript, React, automações e UI/UX, sempre misturando um pouco de lógica, criatividade e curiosidade. Gosto de transformar ideias em projetos reais, resolver problemas e aprender coisas novas no processo.
+
+Fora do código, sou apaixonado por games, RPG de mesa, tecnologia e criação de comunidades. E, às vezes, meus hobbies acabam virando mais um projeto no GitHub. 🎮
+
+No fim, gosto mesmo é de criar coisas.</p>
+  </em> 
+  <br>
+<div align= "center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Tecnologias em aprendizado</i></b> 
+</div>
+
+<br>
+  
+<p style="display: inline-block;" align="center">
+   <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/> 
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  </kbd>
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Library/FrameWorks</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
+    <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /> 
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask"/>
+  </kbd>
+  <kbd>
+    <kbd>Outros</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
+    <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+  </kbd>
+  <br>
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
+</div>
+
+<div align="center">
+<a href="https://github-stats-extended.vercel.app/api?username=RainyCloudsInTheSummer">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=RainyCloudsInTheSummer&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api?username=RainyCloudsInTheSummer&theme=light_github" />
+  </picture>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainyCloudsInTheSummer&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
+  </a>
+</div>
+
+<br>
+<br>
+
+- 📫 Contato: **renzo.clazaroti@gmail.com**
+
+<p align="center"> 
 <!--
 **RainyCloudsInTheSummer/RainyCloudsInTheSummer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
